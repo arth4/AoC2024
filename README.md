@@ -1,4 +1,6 @@
 # AoC2024
-advent of code 2024
+advent of code 2024 with arbitrary rule
 
-numpy funcs only: no ifs, loops defs...
+Day 1 - numpy funcs only: no ifs, loops         ⭐⭐
+Day 2 - numpy funcs only: no ifs, loops         ⭐⬛
+Day 3 - regex and str.find is banned            ⭐⬛
