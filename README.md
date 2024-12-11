@@ -12,4 +12,4 @@ advent of code 2024 with arbitrary rules
 - ⭐⭐ [Day 7](https://github.com/arth4/AoC2024/blob/master/aoc7.ipynb) - **FUN**ctional programming - explicit assignment banned, no loop
 - ⭐⭐ [Day 8](https://github.com/arth4/AoC2024/blob/master/aoc8.ipynb) - one-liners! - no semicolons or walruses
 - ⭐⬛ [Day 9](https://github.com/arth4/AoC2024/blob/master/aoc9.ipynb) - Turing Machine implementation :¬| 
-- ⭐⭐ [Day 9](https://github.com/arth4/AoC2024/blob/master/aoc10.ipynb) - Serious 😐
+- ⭐⭐ [Day 10](https://github.com/arth4/AoC2024/blob/master/aoc10.ipynb) - Serious 😐
