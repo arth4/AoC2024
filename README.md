@@ -13,3 +13,5 @@ advent of code 2024 with arbitrary rules
 - ⭐⭐ [Day 8](https://github.com/arth4/AoC2024/blob/master/aoc8.ipynb) - one-liners! - no semicolons or walruses
 - ⭐⬛ [Day 9](https://github.com/arth4/AoC2024/blob/master/aoc9.ipynb) - Turing Machine implementation :¬| 
 - ⭐⭐ [Day 10](https://github.com/arth4/AoC2024/blob/master/aoc10.ipynb) - Serious 😐
+- ⭐⭐ [Day 11](https://github.com/arth4/AoC2024/blob/master/aoc11.ipynb) - Serious 😐
+- ⭐⭐ [Day 12](https://github.com/arth4/AoC2024/blob/master/aoc12.ipynb) - Serious 😐
