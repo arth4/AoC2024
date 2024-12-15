@@ -16,3 +16,5 @@ advent of code 2024 with arbitrary rules
 - ⭐⭐ [Day 11](https://github.com/arth4/AoC2024/blob/master/aoc11.ipynb) - Serious 😐
 - ⭐⭐ [Day 12](https://github.com/arth4/AoC2024/blob/master/aoc12.ipynb) - Serious 😐
 - ⭐⭐ [Day 13](https://github.com/arth4/AoC2024/blob/master/aoc13.ipynb) - Serious 😐
+- ⭐⭐ [Day 14](https://github.com/arth4/AoC2024/blob/master/aoc14.ipynb) - Serious 😐
+- ⭐⭐ [Day 15](https://github.com/arth4/AoC2024/blob/master/aoc15.ipynb) - Serious 😐 with nice gif
