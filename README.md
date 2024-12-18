@@ -17,4 +17,7 @@ advent of code 2024 with arbitrary rules
 - ⭐⭐ [Day 12](https://github.com/arth4/AoC2024/blob/master/aoc12.ipynb) - Serious 😐
 - ⭐⭐ [Day 13](https://github.com/arth4/AoC2024/blob/master/aoc13.ipynb) - Serious 😐
 - ⭐⭐ [Day 14](https://github.com/arth4/AoC2024/blob/master/aoc14.ipynb) - Serious 😐
-- ⭐⭐ [Day 15](https://github.com/arth4/AoC2024/blob/master/aoc15.ipynb) - Serious 😐 with nice gif
+- ⭐⭐ [Day 15](https://github.com/arth4/AoC2024/blob/master/aoc15.ipynb) - Serious 😐 with a nice gif
+- ⭐⬛ [Day 16](https://github.com/arth4/AoC2024/blob/master/aoc16.ipynb) - Serious 😐 
+- ⭐⬛ [Day 17](https://github.com/arth4/AoC2024/blob/master/aoc17.ipynb) - Serious 😐 
+- ⭐⭐ [Day 18](https://github.com/arth4/AoC2024/blob/master/aoc18.ipynb) - just using networkx in protest to another 2d maze puzzle 😴😴  
